@@ -1,24 +1,15 @@
 ## Notice on username change
 
-Hi there!<img src="https://user-images.githubusercontent.com/28010975/210132376-83059ce7-f072-409a-ad06-0aa563d2fb6f.png" width="24"> Thank you for visiting this repository. 
-
-Please note that my GitHub username has recently changed from [@cheems](https://github.com/cheems) to [@menukaonline](https://github.com/menukaonline). If you are looking for my other repositories, you can find them under my new username ([@menukaonline](https://github.com/menukaonline)). 
-
-<a href="https://github.com/cheems"><img src="https://user-images.githubusercontent.com/28010975/210105818-e9190a17-157a-4bd9-ab92-900e3e55e908.png" width="160" align="center"></a><img src="https://user-images.githubusercontent.com/28010975/210132373-5de1924e-349b-4c43-9188-225f86a6d07e.png" align="center"><a href="https://github.com/menukaonline"><img src="https://user-images.githubusercontent.com/28010975/210105820-f1d03dae-b8aa-4468-9666-acfa07cf6c2d.png" width="160" align="center"></a>
-
-In order to ensure that visitors from old URLs are still able to find my repositories, I have created a GitHub organization with the previous handle ([@cheems](https://github.com/cheems)) which will be used to publish updates about my current repositories. 
-
-Thank you for your understanding and I apologize for any inconvenience this may have caused. 
+Hi there!
 
 Best regards, 
-[@menukaonline](https://github.com/menukaonline) ([@cheems](https://github.com/cheems))
 
 ##
 
-![Preview](https://raw.githubusercontent.com/cheems/goindex-extended/master/images/preview.png)
+![Preview](https://raw.githubusercontent.com/zcbwjefrisd/jefrisd/master/images/preview.png)
 # GoIndex Extended - Google Drive Index
 
-[![Author: Cheems](https://img.shields.io/badge/Author-cheems-blue.svg)](https://github.com/cheems)
+[![Author: Cheems](https://img.shields.io/badge/Author-cheems-blue.svg)](https://github.com/zcbwjefrisd)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Repo Size](https://img.shields.io/github/repo-size/cheems/goindex-extended?color=2fc29d&label=Repo%20Size)]()
 [![Last Commit](https://img.shields.io/github/last-commit/cheems/goindex-extended?label=Last%20Commit)]()
@@ -36,62 +27,20 @@ Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and
 <h2><details>
 <summary>📸 Screenshots</summary>
 
-![Screenshot-1](https://raw.githubusercontent.com/cheems/goindex-extended/master/images/ss-1.png)
-![Screenshot-2](https://raw.githubusercontent.com/cheems/goindex-extended/master/images/ss-2.png)
-![Screenshot-3](https://raw.githubusercontent.com/cheems/goindex-extended/master/images/ss-3.png)
-![Screenshot-4](https://raw.githubusercontent.com/cheems/goindex-extended/master/images/ss-4.png)
-![Screenshot-5](https://raw.githubusercontent.com/cheems/goindex-extended/master/images/ss-5.png)
-![Screenshot-6](https://raw.githubusercontent.com/cheems/goindex-extended/master/images/ss-6.png)
+![Screenshot-1](https://raw.githubusercontent.com/zcbwjefrisd/jefrisd/master/images/ss-1.png)
+![Screenshot-2](https://raw.githubusercontent.com/zcbwjefrisd/jefrisd/master/images/ss-2.png)
+![Screenshot-3](https://raw.githubusercontent.com/zcbwjefrisd/jefrisd/master/images/ss-3.png)
+![Screenshot-4](https://raw.githubusercontent.com/zcbwjefrisd/jefrisd/master/images/ss-4.png)
+![Screenshot-5](https://raw.githubusercontent.com/zcbwjefrisd/jefrisd/master/images/ss-5.png)
+![Screenshot-6](https://raw.githubusercontent.com/zcbwjefrisd/jefrisd/master/images/ss-6.png)
 
 </details></h2>
 
 ## ✨ Unique Features
-
-- 🔎 Search function also works for folder root type
-- 🗂️ Support for duplicated file and folder names
-   - 🔤 Files and folders with the same name
-   - 🔠 Files and folders with the same name but different cases
-- ⌛ Ability to force index to load (can be disabled)
-- 🚀 Quick actions tab (can be disabled):
-   - 📥 Direct Download
-   - ↗️ Open link in a new tab
-   - 📋 Copy link to the clipboard
-- 🔐 File id encryption
-- 🔢 File size in 1024 bytes system
-- 👥 Support for multiple (unlimited) username/password pairs
-- 📚 Ability to download files of Google Workspace apps in all available formats:
-   - 📘 Google Documents - ( docx | odt | rtf | pdf | plain text | html | html/zipped | epub )
-   - 📊 Google Spreadsheets - ( xlsx | ods | csv | pdf | html/zipped )
-   - 👨‍🏫 Google Presentations - ( pptx | odp | pdf | plain text )
-   - 🖌 Google Drawings - ( pdf | jpg | png | svg )
-   - ✍ Google Jamboards - ( pdf )
-   - 📜 Google Apps Scripts - ( json )
-   - 📃Google Forms - ( html/zipped )
-- 🗃️ Ability to change the order which files are listed in
-- 📂 Ability to access/download shortcuts of files and folders
-- 🦠 Ability to download files which Google has flagged as a virus (can be disabled)
-- 🗑️ Ability to download trashed files (can be disabled)
-- 🔡 Support for all characters including slashes('/', '\\') and emojies in file/folder names
-- 📅 Shows modified date & time in your local time
 - 🕒 Modified time displaying issue on Safari browser and browsers on iOS has been fixed
 
 ## ⚡ Features
 
-- 🖥 Video Player - ( mp4 | webm | avi | mpg | mpeg | mkv | rm | rmvb | mov | wmv | asf | ts | flv )
-- 🎧 Music Player - ( mp3 | flac | wav | ogg | m4a )
-- 📚 Document Viewer - ( html | php | css | go | java | js | json | txt | sh | md | pdf )
-- 🖼️ Image Viewer - ( bmp | jpg | jpeg | png | gif )
-- 🔎 Multi-level Search
-- 🔐 Multi drive encryption
-- 📱 Mobile Friendly
-- 💾 Page-level caching, browser forward and backward without reloading
-- 🧥 Dark Theme
-- 🎨 Main Color:
-   - red | pink | purple | deep-purple | indigo | blue | light-blue |
-     cyan | teal | green | light-green | lime | yellow | amber | orange |
-     deep-orange | brown | greyblue-grey
-- 🖌 Accent Color:
-   - red | pink | purple | deep-purple | indigo | blue | light-blue | cyan | teal | green | light-green | lime | yellow | amber | orange | deep-orange
 
 ## 📋 TODO
  - [ ] Adding all expected tasks to the to-do list
